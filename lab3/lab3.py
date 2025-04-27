@@ -184,3 +184,4 @@ except KeyError as ke:
     print("Проверьте структуру загруженных данных.")
 except Exception as e:
     print(f"\nПроизошла ошибка при обработке данных: {e}")
+ 
